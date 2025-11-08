@@ -1,4 +1,3 @@
-Here’s a **README.md** tailored for your Plant Disease Detection project with Streamlit and DVC:
 
 ---
 
@@ -96,12 +95,6 @@ Open `plant_diseases.ipynb` in Jupyter Notebook or Jupyter Lab and run all cells
 * **Loss:** Categorical Crossentropy
 * **Epochs:** 20
 * **Augmentation:** Rotation, shift, zoom, horizontal flip
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use and modify it.
 
 ---
 
